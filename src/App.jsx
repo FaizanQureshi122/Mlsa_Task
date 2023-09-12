@@ -29,7 +29,7 @@ const siteProps = {
   email: "Muhammad.faizan@studentambassadors.com",
   gitHub: "FaizanQureshi122",
   instagram: "Muhammad Faizan",
-  linkedIn: "MuhammadFaizan",
+  linkedIn: "https://www.linkedin.com/in/muhammad-faizan-6739a3209/",
   medium: "",
   twitter: "",
   youTube: "",
