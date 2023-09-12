@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/cover1";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with books coffee and laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TicTacToe App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is created with java and xml TicTacToe App",
+    url: "https://github.com/FaizanQureshi122/Tictactoe_in_Android-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "BMI Calculator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "App is BMI calculator to find help of age and related to Weight",
+    url: "https://github.com/FaizanQureshi122/BMI-Calculator-App-in-java-",
   },
   {
-    title: "My Resume Site",
+    title: "New Stopwatch App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is our Stopwatch work on different Task",
+    url: "https://github.com/FaizanQureshi122/OIBSIP-Task-2_New_Stopwatch",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Covid-19 Tracker App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is Covid-19 Tracker App ",
+    url: "https://github.com/FaizanQureshi122/LGM_VIP_AndroidDevelopment-Task-1",
   },
 ];
 
